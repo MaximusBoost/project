@@ -19,7 +19,7 @@ let arr = ['1','bek','17 cows'];
 console.log(arr[2]);
 
 let persone = {
-    name: "John",
+    name: "Jsohn",
     secondName: "Smith",
     isMarried: false
 };
