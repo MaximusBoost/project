@@ -65,3 +65,11 @@ console.log("2" == 2);
 console.log("2" === 2);
 
 console.log(!("2" === 2));
+
+// Урок 2.8 Условия
+
+if (2*7 == 781) {
+    console.log("Верно!")
+} else {
+    console.log("Не верно!")
+}
